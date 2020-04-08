@@ -1,4 +1,3 @@
-#448f7f2044b856d068fa7a281ab253f6b0d25fc0
 name: Build and Deploy
 on:
   push:
